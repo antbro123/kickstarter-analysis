@@ -7,7 +7,7 @@
 ## Analysis
 
 ### Analysis 1: Theater Outcomes Based on Launch Date: 
-https://github.com/antbro123/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
+_Graphed Data: https://github.com/antbro123/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png_
 
 _**Observations:**_
 -	The three months with the greatest number of theater outcomes are May (166), June (153), and July (138)
@@ -23,6 +23,7 @@ _**Conclusion/Recommendation:**_
 
 
 ### Analysis 2: Outcomes Based on Goals
+_Graphed Data: https://github.com/antbro123/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png_
 
 _**Observations:**_
 -	There are no canceled Theater Plays at any goal level
