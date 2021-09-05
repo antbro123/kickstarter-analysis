@@ -6,7 +6,8 @@
 
 ## Analysis
 
-### Analysis 1: Theater Outcomes Based on Launch Date
+### Analysis 1: Theater Outcomes Based on Launch Date: 
+https://github.com/antbro123/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
 _**Observations:**_
 -	The three months with the greatest number of theater outcomes are May (166), June (153), and July (138)
