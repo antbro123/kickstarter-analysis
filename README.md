@@ -1,8 +1,7 @@
-# Kickstarting with Excel
+# Kickstarting Analysis for Client: Louise
 
 ## Project Overview and Purpose
--	Completing a review of Kickstarter data containing different campaigns to form the basis of a recommendation to our client Louise.
--	Louise is looking for a summary of this analyzed data that will inform and support her decision to launch her own venture. Key datasets reviewed will be launch dates, and funding goals.
+-	Completing a review of Kickstarter data containing different campaigns to form the basis of a recommendation to our client Louise. Louise is looking for a summary of this analyzed data that will inform and support her decision to launch her own venture. Key datasets reviewed will be launch dates, and funding goals.
 
 ## Analysis
 
